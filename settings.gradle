@@ -1,0 +1,2 @@
+rootProject.name = "CustomWidgetApplication"
+include ':app'
